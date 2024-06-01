@@ -217,7 +217,6 @@ sec_vibrator.ko
 max77705-charger.ko
 dropdump.ko
 common_muic.ko
-kperfmon.ko
 sec_tsp_log.ko
 sec_tclm_v2.ko
 sec_secure_touch.ko
