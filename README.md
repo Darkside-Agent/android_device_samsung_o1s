@@ -13,8 +13,4 @@ Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
 
 SPDX-License-Identifier: Apache-2.0
 
-# To build:
-
-```
-. build/envsetup.sh && lunch twrp_o1s-eng && make clean && make recoveryimage -j$(nproc --all)
-```
+WIP - DO NOT COMPILE AND FLASH
